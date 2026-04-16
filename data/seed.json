@@ -1,0 +1,175 @@
+{
+  "impact": {
+    "mealsSaved": 482,
+    "wasteDivertedKg": 186,
+    "co2AvoidedKg": 326,
+    "listingsShared": 124,
+    "weeklyGoal": 600
+  },
+  "locations": [
+    { "label": "Andheri West", "distanceKm": 1.2 },
+    { "label": "Bandra West", "distanceKm": 1.8 },
+    { "label": "Mumbai Central", "distanceKm": 2.4 },
+    { "label": "Lower Parel", "distanceKm": 2.1 },
+    { "label": "Dadar", "distanceKm": 3.4 },
+    { "label": "Powai", "distanceKm": 4.6 },
+    { "label": "Chembur", "distanceKm": 5.2 }
+  ],
+  "stories": [
+    {
+      "name": "Mira",
+      "handle": "@miras.kitchen",
+      "text": "Moved 18 servings of dal and rice in under 20 minutes.",
+      "time": "2m ago",
+      "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "name": "Aakash",
+      "handle": "@aakash.social",
+      "text": "Claimed a bakery bundle and turned it into school snacks.",
+      "time": "11m ago",
+      "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "name": "Neha",
+      "handle": "@reuse.neha",
+      "text": "Saved a tray of leftover fruit for tomorrow's breakfast jars.",
+      "time": "24m ago",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=600&q=80"
+    }
+  ],
+  "recipes": [
+    {
+      "title": "Leftover Rice Fried Rice",
+      "time": "15 min",
+      "servings": 4,
+      "summary": "Turn cold rice into a quick dinner with any green veg, soy, and chili oil.",
+      "ingredients": ["Leftover rice", "Carrots", "Peas", "Soy sauce"],
+      "image": "https://images.unsplash.com/photo-1512058564366-c9e3d0cc1d7f?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "title": "Bread Pudding Bites",
+      "time": "25 min",
+      "servings": 6,
+      "summary": "A warm dessert that rescues stale bread, milk, and a handful of jaggery.",
+      "ingredients": ["Stale bread", "Milk", "Jaggery", "Cardamom"],
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "title": "Chaat Crunch Bowls",
+      "time": "10 min",
+      "servings": 3,
+      "summary": "Mix roasted vegetables, curd, and chutney for a bright snack plate.",
+      "ingredients": ["Roasted veg", "Curd", "Chutney", "Pomegranate"],
+      "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "title": "Soup from the Stems",
+      "time": "20 min",
+      "servings": 4,
+      "summary": "Broccoli stalks, carrot tops, and garlic become a silky freezer-friendly soup.",
+      "ingredients": ["Vegetable stems", "Garlic", "Stock", "Cream"],
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=900&q=80"
+    }
+  ],
+  "listings": [
+    {
+      "id": "food-01",
+      "name": "Garden Curry Box",
+      "donor": "Mira's Kitchen",
+      "location": "Andheri West",
+      "distanceKm": 1.2,
+      "servings": 12,
+      "expiresInMinutes": 45,
+      "category": "Prepared meal",
+      "status": "available",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80",
+      "tags": ["Urgent", "Vegetarian", "Pickup now"],
+      "note": "Packed after a community tasting session."
+    },
+    {
+      "id": "food-02",
+      "name": "Sunday Brunch Salad",
+      "donor": "Clover Cafe",
+      "location": "Bandra West",
+      "distanceKm": 1.8,
+      "servings": 8,
+      "expiresInMinutes": 110,
+      "category": "Produce",
+      "status": "available",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80",
+      "tags": ["Fresh", "Healthy", "No onions"],
+      "note": "Still crisp and perfect for a lunch bowl."
+    },
+    {
+      "id": "food-03",
+      "name": "Bakery Share Pack",
+      "donor": "Bun Run",
+      "location": "Lower Parel",
+      "distanceKm": 2.1,
+      "servings": 18,
+      "expiresInMinutes": 90,
+      "category": "Bakery",
+      "status": "available",
+      "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?auto=format&fit=crop&w=1200&q=80",
+      "tags": ["Sweet", "Same-day", "Bundle"],
+      "note": "Assorted pastries and bread loaves from closing time."
+    },
+    {
+      "id": "food-04",
+      "name": "Family Rice Trays",
+      "donor": "Chowk Social",
+      "location": "Mumbai Central",
+      "distanceKm": 2.4,
+      "servings": 16,
+      "expiresInMinutes": 35,
+      "category": "Prepared meal",
+      "status": "available",
+      "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=80",
+      "tags": ["Urgent", "Pickup now", "Vegetarian"],
+      "note": "Rice, dal, and a small salad from today's lunch counter."
+    },
+    {
+      "id": "food-05",
+      "name": "Fruit Crate",
+      "donor": "Green Loop",
+      "location": "Powai",
+      "distanceKm": 4.6,
+      "servings": 20,
+      "expiresInMinutes": 75,
+      "category": "Produce",
+      "status": "claimed",
+      "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80",
+      "tags": ["Family pack", "Local", "Snacks"],
+      "note": "A mix of ripe fruit, best used the same day."
+    },
+    {
+      "id": "food-06",
+      "name": "Soup Jars",
+      "donor": "Casa Table",
+      "location": "Dadar",
+      "distanceKm": 3.4,
+      "servings": 10,
+      "expiresInMinutes": 55,
+      "category": "Prepared meal",
+      "status": "available",
+      "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=1200&q=80",
+      "tags": ["Warm", "Comfort", "Fridge safe"],
+      "note": "Tomato soup packed in reusable glass jars."
+    },
+    {
+      "id": "food-07",
+      "name": "Dairy Hamper",
+      "donor": "Campus Pantry",
+      "location": "Chembur",
+      "distanceKm": 5.2,
+      "servings": 14,
+      "expiresInMinutes": 130,
+      "category": "Pantry",
+      "status": "available",
+      "image": "https://images.unsplash.com/photo-1563379091339-03246963d1d2?auto=format&fit=crop&w=1200&q=80",
+      "tags": ["Fridge safe", "Bundle", "Breakfast"],
+      "note": "Milk, curd, and a few sealed breakfast items."
+    }
+  ]
+}
